@@ -21,7 +21,7 @@ Create a ReactJS application that fetches product data from the Fake Store API a
 
 ## 📸 App Preview
 
-> *(Optional: Add screenshots or a short demo GIF here)*
+> click here https://fakestoreaddtocart.netlify.app/
 
 ---
 
@@ -67,8 +67,8 @@ src/
 ### 1. Clone this repo
 
 ```bash
-git clone https://github.com/your-username/add-to-cart-app.git
-cd add-to-cart-app
+git clone https://github.com/Srithar810/Add_To_Cart_Using_Modal.git
+cd Add_To_Cart_Using_Modal
 
 
 ###2. Install dependencies
